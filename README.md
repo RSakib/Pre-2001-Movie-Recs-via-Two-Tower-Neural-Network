@@ -1,10 +1,10 @@
 # Pre-2001 Movie Recommendation System using a Two-Tower Neural Network
 
-![Application Frontend](front-end.jpg)
+![Application Frontend](Front-end.jpg)
 
 Built with a Two-Tower neural network architecture to recommend movies from the MovieLens 1M dataset, which are all before the year 2001. My neural network system maps users (who are defined by their gender, age, and their 3 last liked movies) and movies into a shared vector space. Retrieval is accelerated using an FAISS index
 
-A live demo of this application is available on my Hugging Face at: [[link](https://huggingface.co/spaces/RSakib/Two_Towers_MovieLens_Recommendation)]
+A live demo of this application is available on my Hugging Face at: [LINK](https://huggingface.co/spaces/RSakib/Two_Towers_MovieLens_Recommendation)
 
 ## System Architecture
 
